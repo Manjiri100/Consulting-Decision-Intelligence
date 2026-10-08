@@ -1,0 +1,9 @@
+business_unit_id,business_unit,region,function
+BU001,North Europe,Europe,Operations
+BU002,UK&I,Europe,Operations
+BU003,DACH,Europe,Commercial
+BU004,North America,Americas,Commercial
+BU005,APAC,Asia Pacific,Operations
+BU006,Southern Europe,Europe,Finance
+BU007,Benelux,Europe,Customer
+BU008,Nordics,Europe,Customer

@@ -1,0 +1,12 @@
+version: 2
+models:
+  - name: stg_kpi_observations
+    columns:
+      - name: observation_id
+        tests: [unique, not_null]
+      - name: business_unit_id
+        tests: [not_null]
+      - name: kpi_id
+        tests: [not_null]
+      - name: data_quality_score
+        tests: [not_null]

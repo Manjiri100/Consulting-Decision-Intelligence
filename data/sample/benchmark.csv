@@ -1,0 +1,13 @@
+kpi_id,benchmark_group,benchmark_value,benchmark_type
+KPI001,Enterprise,10.0,Median
+KPI001,Top Quartile,15.0,Top Quartile
+KPI002,Enterprise,17.5,Median
+KPI002,Top Quartile,26.25,Top Quartile
+KPI003,Enterprise,25.5,Median
+KPI003,Top Quartile,37.75,Top Quartile
+KPI004,Enterprise,79.5,Median
+KPI004,Top Quartile,89.25,Top Quartile
+KPI005,Enterprise,85.0,Median
+KPI005,Top Quartile,92.5,Top Quartile
+KPI006,Enterprise,95.0,Median
+KPI006,Top Quartile,117.5,Top Quartile

@@ -1,0 +1,7 @@
+kpi_id,kpi_name,category,unit,lower_bound,upper_bound,higher_is_better
+KPI001,Revenue Growth,Growth,%,0,20,1
+KPI002,Operating Margin,Profitability,%,0,35,1
+KPI003,Cost per Transaction,Efficiency,GBP,1,50,0
+KPI004,Customer Retention,Customer,%,60,99,1
+KPI005,On-Time Delivery,Operations,%,70,100,1
+KPI006,Productivity,Productivity,index,50,140,1

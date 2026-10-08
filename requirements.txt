@@ -1,0 +1,3 @@
+pandas>=2.0
+numpy>=1.24
+dbt-duckdb>=1.8

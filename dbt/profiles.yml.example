@@ -1,0 +1,6 @@
+consulting_decision_intelligence:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: target/decision_intelligence.duckdb
